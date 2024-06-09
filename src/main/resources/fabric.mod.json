@@ -1,0 +1,41 @@
+{
+	"schemaVersion": 1,
+	"id": "send_and_receive_msgs",
+	"version": "${version}",
+	"name": "send_and_receive_msgs",
+	"description": "This mod allows you to send and receive messages within the chat window.",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/send_and_receive_msgs/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"name.modid.Send_and_receive_msgs"
+		],
+
+		"client": [
+			"name.modid.Send_and_receive_msgs_Client"
+		],
+		"fabric-datagen": [
+			"name.modid.Send_and_receive_msgsDataGenerator"
+		]
+	},
+	"mixins": [
+		"send_and_receive_msgs.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.20.6",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
