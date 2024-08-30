@@ -1,26 +1,26 @@
 {
 	"schemaVersion": 1,
-	"id": "send_and_receive_msgs",
+	"id": "llm_mod",
 	"version": "${version}",
-	"name": "send_and_receive_msgs",
-	"description": "This mod allows you to send and receive messages within the chat window.",
+	"name": "SendAndReceiveMsgs",
+	"description": "This mod allows you to send and receive messages and screenshots using the chat window.",
 	"authors": [
-		"Me!"
+		"Omer Bin Jawed"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
+		"homepage": "",
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
-	"license": "MIT",
-	"icon": "assets/send_and_receive_msgs/icon.png",
+	"license": "MIT License",
+	"icon": "",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"name.modid.Send_and_receive_msgs"
+			"name.modid.SendAndReceiveMsgs"
 		],
 
 		"client": [
-			"name.modid.Send_and_receive_msgs_Client"
+			"name.modid.SendAndReceiveMsgsClient"
 		],
 		"fabric-datagen": [
 			"name.modid.Send_and_receive_msgsDataGenerator"
