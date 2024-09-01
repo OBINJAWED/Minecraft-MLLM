@@ -1,6 +1,6 @@
 # Minecraft Multimodal LLM Integration
 
-This project integrates a Multimodal Large Language Model (LLM) with Minecraft, allowing players to capture screenshots and receive AI-generated responses based on the game environment.
+This project integrates a Multimodal Large Language Model (MLLM) with Minecraft, allowing players to capture screenshots and receive AI-generated responses based on the game environment.
 
 ## Features
 
