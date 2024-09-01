@@ -2,6 +2,8 @@
 
 This project integrates a Multimodal Large Language Model (MLLM) with Minecraft, allowing players to capture screenshots and receive AI-generated responses based on the game environment.
 
+![Video Preview](https://github.com/OBINJAWED/Minecraft-MLLM/blob/master/Minecraft-video-1.gif)
+
 ## Features
 
 - Capture in-game screenshots with a custom command
