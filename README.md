@@ -4,8 +4,6 @@ This project integrates a Multimodal Large Language Model (MLLM) with Minecraft,
 
 ![Video Preview](https://github.com/OBINJAWED/Minecraft-MLLM/blob/master/Minecraft-video-1.gif)
 
-![Video Preview]([https://github.com/OBINJAWED/Minecraft-MLLM/blob/master/Minecraft-video-1.gif](https://github.com/OBINJAWED/Minecraft-MLLM/blob/master/Minecraft%20video%202%20new.mp4))
-
 ## Features
 
 - Capture in-game screenshots with a custom command
